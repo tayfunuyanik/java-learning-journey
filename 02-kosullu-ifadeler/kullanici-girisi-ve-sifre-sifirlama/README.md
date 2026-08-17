@@ -1,4 +1,4 @@
-# Şifre Sıfırlama Programı
+# Kullanıcı Girişi ve Şifre Sıfırlama
 
 Java ile kullanıcı şifresini kontrol eden ve yanlış şifre durumunda şifre sıfırlama işlemi sunan konsol uygulaması.
 

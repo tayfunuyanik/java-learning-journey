@@ -3,9 +3,9 @@ public class Main {
     public static void main(String[] args) {
         int istenenSayi = 0, bolunebilenSayiSayisi = 0, toplam = 0, ortalama = 0;
         Scanner inp = new Scanner(System.in);
-        System.out.print("Bu program girilen sayiya kadar 3 ve 4'e tam bolunebilen sayilarin ortalamasini hesaplar.\nBir sayi giriniz: ");
+        System.out.print("Bu program girilen sayıya kadar 3 ve 4'e tam bölünebilen sayıların ortalamasını hesaplar.\nBir sayı giriniz: ");
         istenenSayi = inp.nextInt();
-        for (int i = 1; (i <= istenenSayi); i++) {
+        for (int i = 0; i <= istenenSayi; i++) {
             if (((i % 3 == 0) && (i % 4 == 0))) {
                 toplam += i;
                 bolunebilenSayiSayisi++;
@@ -13,9 +13,9 @@ public class Main {
         }
         if (bolunebilenSayiSayisi > 0) {
             ortalama = toplam / bolunebilenSayiSayisi;
-            System.out.print("Sayilarin ortalamasi: " + ortalama);
-        }else {
-            System.out.print("uygun sayı bulunamadi!");
+            System.out.print("Sayıların ortalaması: " + ortalama);
+        } else {
+            System.out.print("Uygun sayı bulunamadı!");
         }
     }
 }

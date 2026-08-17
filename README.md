@@ -16,7 +16,7 @@ Bu bölümde kullanıcıdan veri alma, değişkenler, matematiksel işlemler ve 
 
 - [Not Ortalaması](./01-temel-kavramlar/not-ortalamasi/)
 - [KDV Hesaplama](./01-temel-kavramlar/kdv-hesaplama/)
-- [Dik Üçgende Hipotenüs](./01-temel-kavramlar/dik-ucgende-hipotenus/)
+- [Üçgen Hesaplama](./01-temel-kavramlar/ucgen-hesaplama/)
 - [Taksimetre](./01-temel-kavramlar/taksimetre/)
 - [Daire Hesaplama](./01-temel-kavramlar/daire-hesaplama/)
 - [Vücut Kitle İndeksi](./01-temel-kavramlar/vucut-kitle-indeksi/)
@@ -27,7 +27,7 @@ Bu bölümde kullanıcıdan veri alma, değişkenler, matematiksel işlemler ve 
 Bu bölümde karar mekanizmaları, kullanıcı girdisi kontrolü ve farklı senaryolara göre işlem yapma çalışıldı.
 
 - [Hesap Makinesi](./02-kosullu-ifadeler/hesap-makinesi/)
-- [Kullanıcı Girişi](./02-kosullu-ifadeler/kullanici-girisi/)
+- [Kullanıcı Girişi ve Şifre Sıfırlama](./02-kosullu-ifadeler/kullanici-girisi-ve-sifre-sifirlama/)
 - [Sınıf Geçme Durumu](./02-kosullu-ifadeler/sinif-gecme-durumu/)
 - [Sıcaklığa Göre Etkinlik](./02-kosullu-ifadeler/sicakliga-gore-etkinlik/)
 - [Sayıları Sıralama](./02-kosullu-ifadeler/sayilari-siralama/)
