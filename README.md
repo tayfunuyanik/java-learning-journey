@@ -8,7 +8,7 @@ Bu depo, Java öğrenme sürecimde geliştirdiğim Java 101 uygulamalarını kon
 | --- | --- | ---: |
 | Temel Kavramlar ve Değişkenler | Veri tipleri, `Scanner`, aritmetik işlemler, `Math` sınıfı | 7 |
 | Koşullu İfadeler | `if-else`, `switch`, karşılaştırma ve mantıksal operatörler | 9 |
-| Döngüler | `for`, `while`, `do-while`, `break`, `continue` | 1+ |
+| Döngüler | `for`, `while`, `do-while`, `break`, `continue` | 20 |
 
 ## 01 - Temel Kavramlar ve Değişkenler
 
@@ -38,9 +38,28 @@ Bu bölümde karar mekanizmaları, kullanıcı girdisi kontrolü ve farklı sena
 
 ## 03 - Döngüler
 
-Bu bölümde tekrar eden işlemler, sayaçlar, toplama ve ortalama hesaplama mantığı çalışılıyor.
+Bu bölümde tekrar eden işlemler, sayaçlar, sayı analizi ve iç içe döngüler çalışılıyor.
 
 - [3 ve 4'e Bölünebilen Sayıların Ortalaması](./03-donguler/uc-ve-dorde-bolunebilen-sayilarin-ortalamasi/)
+- [ATM Projesi](./03-donguler/ATM-projesi/ATM-projesi/)
+- [Tek Sayıların Toplamı](./03-donguler/tek-sayilarin-toplami/)
+- [Çift ve 4'ün Katı Sayıların Toplamı](./03-donguler/dordun-katlari-toplami/)
+- [2'nin Kuvvetleri](./03-donguler/ikinin-kuvvetleri/)
+- [4 ve 5'in Kuvvetleri](./03-donguler/dort-ve-besin-kuvvetleri/)
+- [Faktöriyel Hesaplama](./03-donguler/faktoriyel-hesaplama/faktoriyel-hesaplama/)
+- [Kombinasyon Hesaplama](./03-donguler/kombinasyon-hesaplama/)
+- [Üslü Sayı Hesaplama](./03-donguler/uslu-sayi-hesaplama/)
+- [Armstrong Sayısı](./03-donguler/armstrong-sayisi/)
+- [Basamak Toplamı](./03-donguler/basamak-toplami/)
+- [Harmonik Seri](./03-donguler/harmonik-seri/)
+- [Yıldızlarla Üçgen](./03-donguler/yildizlarla-ucgen/)
+- [Yıldızlarla Elmas](./03-donguler/yildizlarla-elmas/)
+- [EBOB ve EKOK](./03-donguler/ebob-ekok/)
+- [Minimum ve Maksimum Sayılar](./03-donguler/min-max-sayilari/)
+- [Mükemmel Sayı](./03-donguler/mukemmel-sayi/)
+- [Ters Üçgen](./03-donguler/ters-ucgen/)
+- [1–100 Arasındaki Asal Sayılar](./03-donguler/asal-sayilar/)
+- [Fibonacci Serisi](./03-donguler/fibonacci-serisi/)
 
 ## Çalıştırma
 
