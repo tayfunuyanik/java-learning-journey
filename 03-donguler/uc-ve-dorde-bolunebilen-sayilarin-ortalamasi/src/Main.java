@@ -5,7 +5,7 @@ public class Main {
         Scanner inp = new Scanner(System.in);
         System.out.print("Bu program girilen sayıya kadar 3 ve 4'e tam bölünebilen sayıların ortalamasını hesaplar.\nBir sayı giriniz: ");
         istenenSayi = inp.nextInt();
-        for (int i = 0; i <= istenenSayi; i++) {
+        for (int i = 1; i <= istenenSayi; i++) {
             if (((i % 3 == 0) && (i % 4 == 0))) {
                 toplam += i;
                 bolunebilenSayiSayisi++;

@@ -11,7 +11,7 @@ public class Main {
         double notOrtalamasi = 0;
         Scanner inp = new Scanner(System.in);
 
-        System.out.print("ÖNEMLİ NOT: 0 ve 100 arasında olmayan notlar geçersiz sayılacaktır!");
+        System.out.println("ÖNEMLİ NOT: 0 ve 100 arasında olmayan notlar geçersiz sayılacaktır!");
         System.out.print("Matematik Notunuz:");
         matematik = inp.nextInt();
 
@@ -32,7 +32,7 @@ public class Main {
             toplamNot = toplamNot + matematik;
             gecerliNotSayisi++;
         } else {
-            System.out.print("Matematik notu geçersiz, ortalamaya eklenmedi.");
+            System.out.println("Matematik notu geçersiz, ortalamaya eklenmedi.");
         }
 
         //Fizik
@@ -40,7 +40,7 @@ public class Main {
             toplamNot = toplamNot + fizik;
             gecerliNotSayisi++;
         } else {
-            System.out.print("Fizik notu geçersiz, ortalamaya eklenmedi.");
+            System.out.println("Fizik notu geçersiz, ortalamaya eklenmedi.");
         }
 
         //Turkce
@@ -48,7 +48,7 @@ public class Main {
             toplamNot = toplamNot + turkce;
             gecerliNotSayisi++;
         } else {
-            System.out.print("Türkçe notu geçersiz, ortalamaya eklenmedi.");
+            System.out.println("Türkçe notu geçersiz, ortalamaya eklenmedi.");
         }
 
         //Kimya
@@ -56,7 +56,7 @@ public class Main {
             toplamNot = toplamNot + kimya;
             gecerliNotSayisi++;
         } else {
-            System.out.print("Kimya notu geçersiz, ortalamaya eklenmedi.");
+            System.out.println("Kimya notu geçersiz, ortalamaya eklenmedi.");
         }
 
         //Muzik
@@ -64,7 +64,7 @@ public class Main {
             toplamNot = toplamNot + muzik;
             gecerliNotSayisi++;
         } else {
-            System.out.print("Müzik notu geçersiz, ortalamaya eklenmedi.");
+            System.out.println("Müzik notu geçersiz, ortalamaya eklenmedi.");
         }
 
         if (gecerliNotSayisi > 0) {
@@ -73,11 +73,11 @@ public class Main {
                 System.out.println("Not ortalamanız: " + notOrtalamasi);
                 System.out.print("Geçtiniz.");
             } else {
-                System.out.print("Not ortalamanız: " + notOrtalamasi);
-                System.out.print("Kaldınız");
+                System.out.println("Not ortalamanız: " + notOrtalamasi);
+                System.out.println("Kaldınız");
             }
         }  else {
-            System.out.print("Geçerli not girilmediği için ortalama hesaplanamadı!");
+            System.out.println("Geçerli not girilmediği için ortalama hesaplanamadı!");
         }
     }
 }
