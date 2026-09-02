@@ -9,6 +9,7 @@ Bu depo, Java öğrenme sürecimde geliştirdiğim Java 101 uygulamalarını kon
 | Temel Kavramlar ve Değişkenler | Veri tipleri, `Scanner`, aritmetik işlemler, `Math` sınıfı | 7 |
 | Koşullu İfadeler | `if-else`, `switch`, karşılaştırma ve mantıksal operatörler | 9 |
 | Döngüler | `for`, `while`, `do-while`, `break`, `continue` | 20 |
+| Metotlar | Parametreler, dönüş türleri, aşırı yükleme, recursive metotlar | 6 |
 
 ## 01 - Temel Kavramlar ve Değişkenler
 
@@ -60,6 +61,17 @@ Bu bölümde tekrar eden işlemler, sayaçlar, sayı analizi ve iç içe döngü
 - [Ters Üçgen](./03-donguler/ters-ucgen/)
 - [1–100 Arasındaki Asal Sayılar](./03-donguler/asal-sayilar/)
 - [Fibonacci Serisi](./03-donguler/fibonacci-serisi/)
+
+## 04 - Metotlar
+
+Bu bölümde tekrarlanan kodları metotlara ayırma, parametre kullanımı, dönüş değerleri ve recursive çağrılar çalışılıyor.
+
+- [Palindrom Sayılar](./04-metotlar/palindrom-sayilar/)
+- [Recursive Fibonacci Serisi](./04-metotlar/recursive-fibonacci-serisi/)
+- [Gelişmiş Hesap Makinesi](./04-metotlar/gelismis-hesap-makinesi/)
+- [Recursive Üs Hesabı](./04-metotlar/recursive-us-hesabi/)
+- [Recursive Asal Sayı Kontrolü](./04-metotlar/recursive-asal-sayi/)
+- [Desene Göre Metot Oluşturma](./04-metotlar/desene-gore-metot-olusturma/)
 
 ## Çalıştırma
 
